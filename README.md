@@ -7,8 +7,8 @@ Coordinate conversion helpers built on pyproj.
 Install from source:
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/larsderidder/coordinate-utils.git
+cd coordinate-utils
 python -m venv .venv
 . .venv/bin/activate
 python -m pip install -U pip
